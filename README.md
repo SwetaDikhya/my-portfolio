@@ -26,4 +26,4 @@ npm run dev
 
 ## Live site
 
-Coming soon.
+https://swetadikhya.github.io/my-portfolio/
